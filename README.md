@@ -1,9 +1,13 @@
 #หัวข้ออยากซื้อคอมพิวเตอร์
+
 #ที่มาของปัญหา
+
 #Use case diagram
+
 ![image](https://user-images.githubusercontent.com/86649866/159757126-73785966-6e42-4680-91fe-caec62b94954.png)
 
 #Mobile application - Figma
+
 ![image](https://user-images.githubusercontent.com/86649866/159757822-c1034c97-3e23-465a-afec-2c48767adf7f.png)
 #ค้นหาอุปกรณ์คอมพิวเตอร์
 
